@@ -1,5 +1,5 @@
-# Essonbaari-Job
-ESX Server - Bar Job - Essonbaari Työ
+# Essonbaari Työ
+Essonbaari Työ - Bar Job
 
 🛠 Vaatimukset
 - ESX Server
