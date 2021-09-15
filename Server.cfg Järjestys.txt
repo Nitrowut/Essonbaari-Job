@@ -1,0 +1,6 @@
+Lisää tässä järjestyksessä scriptit Server.cfg tiedostoon:
+
+start Essonbaari
+start Baari-sisatilat
+start ft_libs # EI TARVITSE, JOS ON JO!!
+start Jukebox

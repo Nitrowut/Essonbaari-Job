@@ -1,0 +1,9 @@
+Ohje - Musiikin lisäys
+
+1. Avaa Config.lua
+2. Mene ihan alas
+3. Laita musiikit allekkain
+
+{song = "MUSIIKIN YOUTUBE ID", label ="MUSIIKIN NIMI"},
+
+-- SONGS = Youtube Video ID Ex.: www.youtube.com/watch?v=((jfreFPe99GU)) catch only jfreFPe99GU
